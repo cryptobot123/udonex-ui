@@ -14,7 +14,7 @@ export const defaultConfig: Config = {
 		referralUrl: '/api/v2/referral',
 		competitionUrl: '/api/v2/competition',
 		authUrl: '/api/v2/barong',
-		tradeUrl: '/api/v2/udonex',
+		tradeUrl: '/api/v2/peatio',
 		applogicUrl: '/api/v2/applogic',
 		rangerUrl: `wss://${window.location.origin.split('//')[1]}/api/v2/ranger`,
 		holderUrl: '/api/v2/holder',
